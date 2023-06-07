@@ -7,5 +7,6 @@ public class Main {
         System.out.println("master3");
         System.out.println("master master");
         System.out.println("hot-fix hot-fix");
+        System.out.println("test github");
     }
 }
